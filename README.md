@@ -27,9 +27,9 @@ The whole point is to lean on the things you can't get from a payload list: how 
 - [03. Recognition playbook](./03-recognition-playbook.md)
 - [04. Burp setup for the exam](./04-burp-setup.md)
 - [05. Exam day: logistics and gotchas](./05-exam-day.md)
-- 06. Technique reference *(coming)*
+- [06. Technique reference](./06-reference.md)
 
-A per-technique reference with real payloads and commands is on the way, rebuilt from my own notes rather than duplicating what PayloadsAllTheThings already does well.
+A curated quick reference rebuilt from my own notes. It covers the essentials to jog your memory once you've recognised the bug, and points to PayloadsAllTheThings and HackTricks for the full catalogue rather than trying to replace them.
 
 ## About the author
 

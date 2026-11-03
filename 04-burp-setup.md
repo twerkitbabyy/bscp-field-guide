@@ -16,8 +16,9 @@ Install those and stop there. You don't need a BApp Store spree.
 
 ## Pro or Community
 
-You can do most of the prep on Community, but know the two gaps:
+You can do most of the prep on Community, but know the gaps:
 
+- **The scanner is Pro only, and it's genuinely overpowered.** Point it at an endpoint and it flags a huge chunk of the vulns for you automatically. On Community you lose it completely and you're on your own for detection. That's good discipline while you're training your eye, but it's a serious tool to be without on the day.
 - **Intruder is throttled** on Community. For any brute forcing, just use **ffuf** instead. It's faster and doesn't nag you.
 - **Out-of-band labs need Collaborator**, which is Pro only, and you can't fake it on the Academy. PortSwigger only allows OOB interactions to Collaborator domains for safety, so you can't point those labs at your own OOB server. The OOB labs simply wait for Pro.
 

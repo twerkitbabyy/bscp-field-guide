@@ -27,8 +27,9 @@ The whole point is to lean on the things you can't get from a payload list: how 
 - [03. Recognition playbook](./03-recognition-playbook.md)
 - 04. Burp setup for the exam *(coming)*
 - [05. Exam day: logistics and gotchas](./05-exam-day.md)
+- 06. Technique reference *(coming)*
 
-Per-technique quick references (payloads and commands) live in the topic folders: [`injection/`](./injection), [`client-side/`](./client-side), [`server-side/`](./server-side), [`authentication-access/`](./authentication-access), [`http-infra/`](./http-infra). These are being folded into the guide as it grows.
+A per-technique reference with real payloads and commands is on the way, rebuilt from my own notes rather than duplicating what PayloadsAllTheThings already does well.
 
 ## About the author
 

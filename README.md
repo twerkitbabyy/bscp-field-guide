@@ -23,7 +23,7 @@ The whole point is to lean on the things you can't get from a payload list: how 
 ## Contents
 
 - [01. Scope: what the exam actually tests](./01-scope.md)
-- 02. Study roadmap *(coming)*
+- [02. Study roadmap](./02-study-roadmap.md)
 - [03. Recognition playbook](./03-recognition-playbook.md)
 - 04. Burp setup for the exam *(coming)*
 - [05. Exam day: logistics and gotchas](./05-exam-day.md)
